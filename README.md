@@ -1,0 +1,2 @@
+# webpack-tempate
+webpack it
